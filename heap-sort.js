@@ -38,7 +38,7 @@ void TaoHeap(int a[], int r) {
 []
 */
 
-// JS code
+// JS code demo: https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-3.php
 
 var array_length;
 /* to create MAX  array */  
